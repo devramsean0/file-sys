@@ -4,9 +4,9 @@ set -e
 
 #############################################################################
 #                                                                           #
-# Project 'pterodactyl-installer'                                           #
+#pterodactyl installer                                        #
 #                                                                           #
-# Copyright (C) 2018 - 2021, Vilhelm Prytz, <vilhelm@prytznet.se>           #
+# Copyright (C) 2018 - 2021, sean outram          #
 #                                                                           #
 #   This program is free software: you can redistribute it and/or modify    #
 #   it under the terms of the GNU General Public License as published by    #
@@ -21,10 +21,10 @@ set -e
 #   You should have received a copy of the GNU General Public License       #
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.  #
 #                                                                           #
-# https://github.com/vilhelmprytz/pterodactyl-installer/blob/master/LICENSE #
+# #
 #                                                                           #
 # This script is not associated with the official Pterodactyl Project.      #
-# https://github.com/vilhelmprytz/pterodactyl-installer                     #
+#                  #
 #                                                                           #
 #############################################################################
 
